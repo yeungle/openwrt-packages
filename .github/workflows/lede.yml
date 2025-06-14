@@ -11,7 +11,7 @@ on:
       - "./diy/lede.sh"
 
 env:
-  REPO: moruiris/openwrt-packages
+  REPO: yeungle/openwrt-packages
   BRANCH: lede
   PATHS: lede.sh
 
