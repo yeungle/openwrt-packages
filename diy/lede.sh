@@ -45,7 +45,7 @@ git clone https://github.com/fw876/helloworld ./packages_luci-app-ssr-plus
 #################################################主题########################################################################################################
 ########################################luci-app-argon#############################################
 #原作者
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
+git clone https://github.com/jerrykuku/luci-theme-argon.git
 git clone -b 18.06 https://github.com/jerrykuku/luci-app-argon-config
 ############################################################################################################################################################
 
